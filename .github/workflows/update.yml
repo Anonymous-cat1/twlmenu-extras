@@ -24,6 +24,13 @@ jobs:
       with:
         fetch-depth: 0
 
+    - name: Change ownership of /github/home
+      run: sudo chown -R $(whoami) /github/home
+
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.8.5'
+
     - name: Install packages
       run: |
         sudo apt-get update
@@ -45,7 +52,7 @@ jobs:
     - name: Run generate.py
       run: |
         export PATH=$PATH:/opt/devkitpro/tools/bin
-        python3 generate.py --break-system-packages ${{ secrets.GITHUB_TOKEN }}
+        python3 generate.py ${{ secrets.GITHUB_TOKEN }}
 
     - name: Push changes
       uses: github-actions-x/commit@v2.9
