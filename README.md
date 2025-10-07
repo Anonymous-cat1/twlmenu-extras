@@ -1,10 +1,8 @@
+# Anonymous_cat1's Repo
+Why? because the maintainers on the original repo all seem to have died. Or... something simliar, regardless I made this repo provide an "updated" build of the site that isn't months out of date. Open some issues or pull requests and i'll see what I can do--I have no idea what I'm doing here.
+
 # TWiLight Menu++ Extras
 This is a repository to host extra files for **TW**i**L**ight Menu++.
-
-## UniStore
-Scan this QR code in Universal-Updater to add a UniStore with these themes for easy installation:
-
-![QR code to the UniStore](https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.png)
 
 ## Repository Credits
 - [NightScript](https://github.com/NightYoshi370): Organizing everything
@@ -14,7 +12,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these themes for e
 
 ## Theme Credits:
 - [Allinxter](https://github.com/Allinxter): 3DS Kyurem, Tower Duo, The Legend of Zelda, Windows XP, Windows 7, Spider-Man, The Binding of Isaac, Phantom Thieves, Investigation Team, S.E.E.S., iDS, Terraria, Ace Attorney and Chrono Trigger themes, and DSi Persona 5 theme
-- [Anonymous-cat1](https://github.com/Anonymous-cat1): 3DS POSTAL 2 theme
+- [Anonymous-cat1](https://github.com/Anonymous-cat1): 3DS POSTAL 2 Theme
 - [blloop](https://github.com/blloop): Grand Theft Auto CW Theme
 - [ctutts14](https://github.com/ctutts14): 3DS Sonic Rush Theme and Unlaunch Sonic Rush background
 - [Dhalian.](https://github.com/Dhalian): 3DS Douze Coups de Midi theme, Unlaunch Douze Coups de Midi background 
@@ -46,4 +44,5 @@ Scan this QR code in Universal-Updater to add a UniStore with these themes for e
 - Vulpes-Vulpeos: Uploading AKmenu Pico-8, Monster Hunter Generations, and Nintendo DS-Like themes
 - [xanshark](https://github.com/xanshark): Starry Rayquaza theme
 - [maniacnny](https://github.com/maniacnny): Metroid R4 Themes
+
 
