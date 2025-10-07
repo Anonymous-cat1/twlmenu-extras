@@ -87,7 +87,7 @@ def downloadScript(skin: str, folder: str) -> list:
 		return [
 			{
 				"type": "downloadFile",
-				"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin),
+				"file": "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + urllib.parse.quote(skin),
 				"output": f"/{skinName}.7z"
 			},
 			{
@@ -105,7 +105,7 @@ def downloadScript(skin: str, folder: str) -> list:
 		return [
 			{
 				"type": "downloadFile",
-				"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin),
+				"file": "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + urllib.parse.quote(skin),
 				"output": "/" + skin
 			}
 		]
@@ -124,12 +124,12 @@ output = []
 unistore = {
 	"storeInfo": {
 		"title": "TWiLight Menu++ Themes",
-		"author": "DS-Homebrew",
-		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.unistore",
+		"author": "Anonymous_cat1",
+		"url": "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/twlmenu-skins.unistore",
 		"file": "twlmenu-skins.unistore",
-		"sheetURL": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.t3x",
+		"sheetURL": "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/twlmenu-skins.t3x",
 		"sheet": "twlmenu-skins.t3x",
-		"description": "A collection of themes for TWiLight Menu++\nfrom DS-Homebrew/twlmenu-extras on GitHub\n\n(The 'Console' is the UI in TWiLight)",
+		"description": "A collection of themes for TWiLight Menu++\nfrom anonymous-cat1/twlmenu-extras on GitHub\n\n(The 'Console' is the UI in TWiLight)",
 		"version": 3,
 		"revision": 0 if ("storeInfo" not in unistoreOld or "revision" not in unistoreOld["storeInfo"]) else unistoreOld["storeInfo"]["revision"]
 	},
@@ -193,12 +193,12 @@ for skin in files:
 		for screenshot in dirlist:
 			if screenshot[-3:] == "png":
 				screenshots.append({
-					"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
+					"url": "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
 					"description": screenshot[:screenshot.rfind(".")].capitalize().replace("-", " ")
 				})
 	elif skin[-3:] in ("gif", "png"):  # Unlaunch bg or icon
 		screenshots.append({
-			"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
+			"url": "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + skin,
 			"description": skinName.capitalize().replace("-", " ")
 		})
 	elif skin[-3:] == "bin":  # banner.bin icon
@@ -211,7 +211,7 @@ for skin in files:
 
 
 		screenshots.append({
-			"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + gifPath,
+			"url": "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + gifPath,
 			"description": skinName.capitalize().replace("-", " ")
 		})
 
@@ -274,17 +274,17 @@ for skin in files:
 	if titles:
 		web["titles"] = titles
 	web["downloads"] = {skin[skin.rfind("/") + 1:]: {
-		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
+		"url": "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + skin,
 		"size": path.getsize(skin)
 	}}
 	if skin[-3:] in ("gif", "png"):
-		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin
+		web["icon"] = "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + skin
 	elif skin[-3:] == "bin":
-		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
+		web["icon"] = "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
 	elif web["icon_index"] < 4:
-		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
+		web["icon"] = "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
 	else:
-		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"
+		web["icon"] = "https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"
 	web["image"] = web["icon"]
 	web.pop("icon_index")
 	if "title" in web:
