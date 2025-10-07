@@ -2,7 +2,7 @@
 layout: cards
 title: Home
 permalink: /
-limit: 10
+limit: 8
 ---
 
 # Welcome!
