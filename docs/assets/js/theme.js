@@ -1,9 +1,9 @@
 function loadTheme() {
-	const themeCSS = document.getElementById("theme-css");
-	if(!localStorage.theme || localStorage.theme == "default")
-		themeCSS.href = "/assets/css/style.css";
-	else
-		themeCSS.href = "/assets/css/" + localStorage.theme + ".css";
+    const themeCSS = document.getElementById("theme-css");
+    if(!localStorage.theme || localStorage.theme == "default")
+        themeCSS.href = baseurl + "/assets/css/style.css";
+    else
+        themeCSS.href = baseurl + "/assets/css/" + localStorage.theme + ".css";
 }
 
 function setTheme(theme) {
