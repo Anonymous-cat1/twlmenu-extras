@@ -7,6 +7,7 @@ I have no idea what I'm doing.
 This is a repository to host extra files for **TW**i**L**ight Menu++.
 
 ## Repository Credits
+- [Anonymous_cat1](https://github.com/anonymous-cat1): Getting this repository to work on a github hosted page 
 - [NightScript](https://github.com/NightYoshi370): Organizing everything
 - [FlameKat53](https://github.com/FlameKat53): Adding ReadME's to themes that do not have one
 - [Rocket Robz](https://github.com/RocketRobz): Author of TWiLight Menu++
@@ -46,6 +47,7 @@ This is a repository to host extra files for **TW**i**L**ight Menu++.
 - Vulpes-Vulpeos: Uploading AKmenu Pico-8, Monster Hunter Generations, and Nintendo DS-Like themes
 - [xanshark](https://github.com/xanshark): Starry Rayquaza theme
 - [maniacnny](https://github.com/maniacnny): Metroid R4 Themes
+
 
 
 
