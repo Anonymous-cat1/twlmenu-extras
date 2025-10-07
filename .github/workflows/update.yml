@@ -45,7 +45,7 @@ jobs:
     - name: Run generate.py
       run: |
         export PATH=$PATH:/opt/devkitpro/tools/bin
-        python3 generate.py ${{ secrets.GITHUB_TOKEN }}
+        python3 generate.py --break-system-packages ${{ secrets.GITHUB_TOKEN }}
 
     - name: Push changes
       uses: github-actions-x/commit@v2.9
