@@ -1,10 +1,9 @@
 title       : "TWiLight Menu++ Themes"
 description : "A collection of themes for TWiLight Menu++ from DS-Homebrew/twlmenu-extras on GitHub"
 repo        : "DS-Homebrew/twlmenu-extras"
-color       : "#da4a53"
+color       : "#9900ff"
 image       : "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png"
 baseurl     : "/twlmenu-extras"
-url         : "https://anonymous-cat1.github.io"
 
 sass:
   sass_dir: _sass
