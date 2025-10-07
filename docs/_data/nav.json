@@ -1,44 +1,44 @@
 [
 	{
 		"title": "Home",
-		"url": "/"
+		"url": "/twlmenu-extras/"
 	},
 	{
 		"title": "Nintendo 3DS",
-		"url": "/nintendo-3ds",
+		"url": "/twlmenu-extras/nintendo-3ds",
 		"key": "3"
 	},
 	{
 		"title": "Nintendo DSi",
-		"url": "/nintendo-dsi",
+		"url": "/twlmenu-extras/nintendo-dsi",
 		"key": "i"
 	},
 	{
 		"title": "R4 Original",
-		"url": "/r4-original",
+		"url": "/twlmenu-extras/r4-original",
 		"key": "r"
 	},
 	{
 		"title": "Wood UI",
-		"url": "/wood-ui",
+		"url": "/twlmenu-extras/wood-ui",
 		"key": "w"
 	},
 	{
 		"title": "Fonts",
 		"system-title": "Font",
-		"url": "/font",
+		"url": "/twlmenu-extras/font",
 		"key": "f"
 	},
 	{
 		"title": "Icons",
 		"system-title": "Icon",
-		"url": "/icon",
+		"url": "/twlmenu-extras/icon",
 		"key": "c"
 	},
 	{
 		"title": "Unlaunch Backgrounds",
 		"system-title": "Unlaunch",
-		"url": "/unlaunch",
+		"url": "/twlmenu-extras/unlaunch",
 		"key": "u"
 	}
 ]
