@@ -1,7 +1,7 @@
 # Anonymous_cat1's Repo
 Why? because the maintainers on the original repo all seem to have died.
 Regardless of what really happened, I made this repo provide an "updated" build of the site (that isn't months out of date). Open some issues or pull requests and I'll see what I can do!
--# I have no idea what I'm doing.
+I have no idea what I'm doing.
 
 # TWiLight Menu++ Extras
 This is a repository to host extra files for **TW**i**L**ight Menu++.
@@ -46,6 +46,7 @@ This is a repository to host extra files for **TW**i**L**ight Menu++.
 - Vulpes-Vulpeos: Uploading AKmenu Pico-8, Monster Hunter Generations, and Nintendo DS-Like themes
 - [xanshark](https://github.com/xanshark): Starry Rayquaza theme
 - [maniacnny](https://github.com/maniacnny): Metroid R4 Themes
+
 
 
 
