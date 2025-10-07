@@ -9,15 +9,15 @@ description: GBA SP icon in gray.
 downloads:
   gbasp-gray.png:
     size: 268
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gbasp-gray.png
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gbasp-gray.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gbasp-gray.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gbasp-gray.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gbasp-gray.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gbasp-gray.png
 last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Gbasp gray
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gbasp-gray.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gbasp-gray.png
 systems:
 - Icon
 title: GBA SP (gray)

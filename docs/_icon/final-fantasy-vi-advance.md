@@ -17,18 +17,18 @@ description: Sprites ripped by daemoth, Tonberry2k, & Unknown from www.spriters-
 downloads:
   Final Fantasy VI Advance.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Final
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Final
       Fantasy VI Advance.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Final
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Final
   Fantasy VI Advance.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Final
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Final
   Fantasy VI Advance.gif
 last_updated: 2023-10-05 at 17:27 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Final fantasy vi advance
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Final
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Final
     Fantasy VI Advance.gif
 systems:
 - Icon

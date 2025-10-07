@@ -11,16 +11,16 @@ description: ''
 downloads:
   Penguins of Madagascar.7z:
     size: 398295
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Penguins
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Penguins
       of Madagascar.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Penguins%20of%20Madagascar/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Penguins%20of%20Madagascar/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Penguins%20of%20Madagascar/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Penguins%20of%20Madagascar/icon.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Penguins%20of%20Madagascar/screenshots/app-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Penguins%20of%20Madagascar/screenshots/app-list.png
 systems:
 - Wood UI
 title: Penguins of Madagascar

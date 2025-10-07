@@ -8,15 +8,15 @@ description: Homebrew port of C64 game The Great Giana Sisters
 downloads:
   giana.nds.png:
     size: 222
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/giana.nds.png
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/giana.nds.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/giana.nds.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/giana.nds.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/giana.nds.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/giana.nds.png
 last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Giana.nds
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/giana.nds.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/giana.nds.png
 systems:
 - Icon
 title: Giana Sisters C64

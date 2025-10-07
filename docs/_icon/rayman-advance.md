@@ -10,18 +10,18 @@ description: ''
 downloads:
   Rayman Advance.png:
     size: 387
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Rayman
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Rayman
       Advance.png
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Rayman
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Rayman
   Advance.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Rayman
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Rayman
   Advance.png
 last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Rayman advance
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Rayman
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Rayman
     Advance.png
 systems:
 - Icon

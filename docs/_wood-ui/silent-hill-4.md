@@ -8,10 +8,10 @@ description: ''
 downloads:
   Silent Hill 4.7z:
     size: 61688
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Silent
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Silent
       Hill 4.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Silent%20Hill%204/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Silent%20Hill%204/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Silent%20Hill%204/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Silent%20Hill%204/icon.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''

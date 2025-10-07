@@ -12,19 +12,19 @@ description: Featuring Omori and his friends in Headspace.
 downloads:
   OMORI.7z:
     size: 2530707
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/OMORI.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/icon.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/OMORI.7z
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/icon.png
 last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/screenshots/app-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/screenshots/app-list.png
 - description: Background
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/screenshots/background.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/screenshots/background.png
 - description: Per game settings
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/screenshots/per-game-settings.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/OMORI/screenshots/per-game-settings.png
 systems:
 - Nintendo 3DS
 title: OMORI

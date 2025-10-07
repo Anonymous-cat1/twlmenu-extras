@@ -10,18 +10,18 @@ description: 'Credit for the original sprites: Jermungandr, Black Squirrel (The 
 downloads:
   Bubble Bobble.png:
     size: 287
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Bubble
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Bubble
       Bobble.png
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Bubble
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Bubble
   Bobble.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Bubble
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Bubble
   Bobble.png
 last_updated: 2024-07-10 at 22:24 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Bubble bobble
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Bubble
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Bubble
     Bobble.png
 systems:
 - Icon

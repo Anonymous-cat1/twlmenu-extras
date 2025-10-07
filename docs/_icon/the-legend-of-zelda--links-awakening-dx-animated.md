@@ -10,18 +10,18 @@ description: Link peacefully fishing. Sprites ripped by MisterMike on spriter's 
 downloads:
   The Legend of Zelda Link's Awakening DX (animated).bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/The
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/The
       Legend of Zelda Link's Awakening DX (animated).bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/The
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/The
   Legend of Zelda Link's Awakening DX (animated).gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/The
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/The
   Legend of Zelda Link's Awakening DX (animated).gif
 last_updated: 2025-01-01 at 08:36 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: The legend of zelda link's awakening dx (animated)
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/The
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/The
     Legend of Zelda Link's Awakening DX (animated).gif
 systems:
 - Icon

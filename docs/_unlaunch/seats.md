@@ -9,15 +9,15 @@ description: ''
 downloads:
   seats.gif:
     size: 11735
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/seats.gif
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/seats.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/seats.gif
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/seats.gif
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/seats.gif
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/seats.gif
 last_updated: 2020-10-27 at 05:38 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Seats
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/seats.gif
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/seats.gif
 systems:
 - Unlaunch
 title: Seats

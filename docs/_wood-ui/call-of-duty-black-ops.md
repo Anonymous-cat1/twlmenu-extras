@@ -9,10 +9,10 @@ description: ''
 downloads:
   COD Black Ops.7z:
     size: 42013
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/COD
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/COD
       Black Ops.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/COD%20Black%20Ops/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/COD%20Black%20Ops/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/COD%20Black%20Ops/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/COD%20Black%20Ops/icon.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''

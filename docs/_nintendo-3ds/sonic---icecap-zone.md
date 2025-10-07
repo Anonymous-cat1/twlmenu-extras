@@ -15,19 +15,19 @@ description: A cold theme, based on IceCap Zone from Sonic the Hedgehog 3. Watch
 downloads:
   SonicICZ.7z:
     size: 3079304
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/SonicICZ.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/icon.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/SonicICZ.7z
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/icon.png
 last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/screenshots/app-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/screenshots/app-list.png
 - description: Background
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/screenshots/background.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/screenshots/background.png
 - description: Per game settings
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/screenshots/per-game-settings.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/screenshots/per-game-settings.png
 systems:
 - Nintendo 3DS
 title: Sonic - IceCap Zone

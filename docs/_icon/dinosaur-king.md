@@ -11,18 +11,18 @@ description: Sprites ripped by Previous from www.spriters-resource.com
 downloads:
   Dinosaur King.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Dinosaur
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Dinosaur
       King.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Dinosaur
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Dinosaur
   King.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Dinosaur
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Dinosaur
   King.gif
 last_updated: 2023-10-05 at 17:27 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Dinosaur king
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Dinosaur
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Dinosaur
     King.gif
 systems:
 - Icon

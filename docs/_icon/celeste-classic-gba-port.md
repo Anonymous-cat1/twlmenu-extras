@@ -10,18 +10,18 @@ description: ''
 downloads:
   Celeste Classic.gba.bin:
     size: 2112
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Celeste
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Celeste
       Classic.gba.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Celeste
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Celeste
   Classic.gba.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Celeste
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Celeste
   Classic.gba.gif
 last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Celeste classic.gba
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Celeste
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Celeste
     Classic.gba.gif
 systems:
 - Icon

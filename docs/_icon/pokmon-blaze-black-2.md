@@ -15,15 +15,15 @@ description: ''
 downloads:
   blazeblack2.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/blazeblack2.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/blazeblack2.bin
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
 last_updated: 2022-04-22 at 01:30 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Blazeblack2
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
 systems:
 - Icon
 title: Pokémon Blaze Black 2

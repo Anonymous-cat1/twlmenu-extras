@@ -11,17 +11,17 @@ description: '''This is For The Record'''
 downloads:
   mw2.7z:
     size: 134437
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/mw2.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/mw2/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/mw2/icon.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/mw2.7z
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/mw2/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/mw2/icon.png
 last_updated: 2023-07-05 at 11:04 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: File list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/mw2/screenshots/file-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/mw2/screenshots/file-list.png
 - description: Main menu
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/mw2/screenshots/main-menu.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/mw2/screenshots/main-menu.png
 systems:
 - R4 Original
 title: 'Call of Duty: Modern Warfare 2'

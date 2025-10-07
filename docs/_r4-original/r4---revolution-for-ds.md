@@ -13,18 +13,18 @@ description: ''
 downloads:
   R4 - Revolution for DS.7z:
     size: 127627
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/R4
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/R4
       - Revolution for DS.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/r4.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/r4.png
 last_updated: 2023-09-09 at 17:36 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: File list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/R4%20-%20Revolution%20for%20DS/screenshots/file-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/R4%20-%20Revolution%20for%20DS/screenshots/file-list.png
 - description: Main menu
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/R4%20-%20Revolution%20for%20DS/screenshots/main-menu.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/R4%20-%20Revolution%20for%20DS/screenshots/main-menu.png
 systems:
 - R4 Original
 title: R4 - Revolution for DS

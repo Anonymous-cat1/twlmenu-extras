@@ -12,18 +12,18 @@ description: Custom banner for Pokémon Pinball on GBA.
 downloads:
   Pokémon Pinball - Ruby & Sapphire.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
       Pinball - Ruby & Sapphire.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
   Pinball - Ruby & Sapphire.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
   Pinball - Ruby & Sapphire.gif
 last_updated: 2023-05-17 at 17:41 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Pokémon pinball   ruby & sapphire
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
     Pinball - Ruby & Sapphire.gif
 systems:
 - Icon

@@ -12,18 +12,18 @@ description: Sprites ripped by Paraemon & Triangly from www.spriters-resource.co
 downloads:
   Sonic the Hedgehog 2.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Sonic
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Sonic
       the Hedgehog 2.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
   the Hedgehog 2.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
   the Hedgehog 2.gif
 last_updated: 2023-10-05 at 17:27 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Sonic the hedgehog 2
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
     the Hedgehog 2.gif
 systems:
 - Icon

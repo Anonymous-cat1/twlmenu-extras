@@ -8,9 +8,9 @@ description: ''
 downloads:
   DarkSakura.7z:
     size: 27680
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/DarkSakura.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/DarkSakura.7z
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/ak.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/ak.png
 last_updated: 2024-12-28 at 22:47 (UTC)
 layout: app
 license: ''

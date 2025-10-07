@@ -13,22 +13,22 @@ description: 'A terror of gargantuan proportions! BGM: Fury Bowser 1'
 downloads:
   Bowser's Fury.7z:
     size: 4902270
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Bowser's
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Bowser's
       Fury.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/icon.png
 last_updated: 2023-12-15 at 23:07 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/screenshots/app-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/screenshots/app-list.png
 - description: Macro mode
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/screenshots/macro-mode.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/screenshots/macro-mode.png
 - description: Per game settings
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/screenshots/per-game-settings.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/screenshots/per-game-settings.png
 - description: Select menu
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/screenshots/select-menu.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/screenshots/select-menu.png
 systems:
 - Nintendo DSi
 title: Bowser's Fury

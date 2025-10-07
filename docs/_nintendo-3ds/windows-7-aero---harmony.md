@@ -15,22 +15,22 @@ description: This skin was made for an old version of TWiLight Menu++ and hasn't
 downloads:
   Windows 7.7z:
     size: 562066
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Windows
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Windows
       7.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/icon.png
 last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/screenshots/app-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/screenshots/app-list.png
 - description: Background
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/screenshots/background.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/screenshots/background.png
 - description: Macro
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/screenshots/macro.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/screenshots/macro.png
 - description: Per game settings
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/screenshots/per-game-settings.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/screenshots/per-game-settings.png
 systems:
 - Nintendo 3DS
 title: Windows 7 Aero - Harmony

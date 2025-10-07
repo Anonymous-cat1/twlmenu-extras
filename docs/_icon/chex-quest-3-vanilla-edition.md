@@ -13,18 +13,18 @@ description: ''
 downloads:
   Chex Quest 3 Vanilla Edition.argv.bin:
     size: 2112
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Chex
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Chex
       Quest 3 Vanilla Edition.argv.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Chex
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Chex
   Quest 3 Vanilla Edition.argv.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Chex
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Chex
   Quest 3 Vanilla Edition.argv.gif
 last_updated: 2024-12-09 at 11:06 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Chex quest 3 vanilla edition.argv
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Chex
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Chex
     Quest 3 Vanilla Edition.argv.gif
 systems:
 - Icon

@@ -12,15 +12,15 @@ description: Blank Spinnning DS cartridge. Feel free to add your own designs wit
 downloads:
   DSGCblank.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/DSGCblank.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/DSGCblank.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/DSGCblank.gif
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/DSGCblank.bin
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/DSGCblank.gif
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/DSGCblank.gif
 last_updated: 2024-06-15 at 23:55 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Dsgcblank
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/DSGCblank.gif
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/DSGCblank.gif
 systems:
 - Icon
 title: Blank DS Game Cartridge

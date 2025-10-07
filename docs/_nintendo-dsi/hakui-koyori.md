@@ -10,9 +10,9 @@ description: Koyori ch. 博衣こより - holoX - background and BGM
 downloads:
   Koyori.7z:
     size: 3785988
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Koyori.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Koyori/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Koyori/icon.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Koyori.7z
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Koyori/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Koyori/icon.png
 last_updated: 2023-07-05 at 10:36 (UTC)
 layout: app
 license: ''

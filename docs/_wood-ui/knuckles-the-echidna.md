@@ -11,10 +11,10 @@ description: ''
 downloads:
   Knuckles the Echidna.7z:
     size: 39840
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Knuckles
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Knuckles
       the Echidna.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Knuckles%20the%20Echidna/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Knuckles%20the%20Echidna/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Knuckles%20the%20Echidna/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Knuckles%20the%20Echidna/icon.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''

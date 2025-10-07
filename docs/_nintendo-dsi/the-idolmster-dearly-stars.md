@@ -12,19 +12,19 @@ description: Based on the DS entry of the iDOLM@STER series. Features idols Ai, 
 downloads:
   THE iDOLM@STER Dearly Stars.7z:
     size: 14069348
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/THE
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/THE
       iDOLM@STER Dearly Stars.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/THE%20iDOLM%40STER%20Dearly%20Stars/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/THE%20iDOLM%40STER%20Dearly%20Stars/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/THE%20iDOLM%40STER%20Dearly%20Stars/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/THE%20iDOLM%40STER%20Dearly%20Stars/icon.png
 last_updated: 2023-12-03 at 22:11 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Dearly stars theme dslite menu
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/THE%20iDOLM%40STER%20Dearly%20Stars/screenshots/dearly
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/THE%20iDOLM%40STER%20Dearly%20Stars/screenshots/dearly
     stars theme dslite menu.png
 - description: Dearly stars theme
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/THE%20iDOLM%40STER%20Dearly%20Stars/screenshots/dearly
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/THE%20iDOLM%40STER%20Dearly%20Stars/screenshots/dearly
     stars theme.png
 systems:
 - Nintendo DSi

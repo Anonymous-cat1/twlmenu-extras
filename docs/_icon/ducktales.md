@@ -10,15 +10,15 @@ description: 'Credit for the original sprites: JOBNED1, Raposa Cadela (The Sprit
 downloads:
   DuckTales.png:
     size: 374
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/DuckTales.png
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/DuckTales.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/DuckTales.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/DuckTales.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/DuckTales.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/DuckTales.png
 last_updated: 2024-07-10 at 22:24 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Ducktales
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/DuckTales.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/DuckTales.png
 systems:
 - Icon
 title: DuckTales

@@ -14,15 +14,15 @@ description: ''
 downloads:
   AceAttorneyIPP.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/AceAttorneyIPP.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyIPP.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyIPP.gif
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/AceAttorneyIPP.bin
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyIPP.gif
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyIPP.gif
 last_updated: 2022-04-23 at 01:02 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Aceattorneyipp
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyIPP.gif
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyIPP.gif
 systems:
 - Icon
 title: 'Ace Attorney Investigations: Miles Edgeworth - Prosecutor''s Path'

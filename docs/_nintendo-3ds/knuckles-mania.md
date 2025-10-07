@@ -14,9 +14,9 @@ description: 'Meet Knuckles, the character from the Sonic series who is the subj
 downloads:
   KnucklesMania.7z:
     size: 5904086
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/KnucklesMania.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/KnucklesMania/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/KnucklesMania/icon.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/KnucklesMania.7z
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/KnucklesMania/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/KnucklesMania/icon.png
 last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''

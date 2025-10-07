@@ -13,25 +13,25 @@ description: Rev up your engines! Prepare to play your favorite games with this 
 downloads:
   Mario Kart DS.7z:
     size: 1450759
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Mario
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Mario
       Kart DS.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/icon.png
 last_updated: 2023-07-05 at 10:37 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/screenshots/App
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/screenshots/App
     list.png
 - description: Macro mode app list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/screenshots/Macro
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/screenshots/Macro
     Mode app list.png
 - description: Per game settings
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/screenshots/Per-game
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/screenshots/Per-game
     settings.png
 - description: Select menu
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/screenshots/SELECT
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/screenshots/SELECT
     menu.png
 systems:
 - Nintendo DSi

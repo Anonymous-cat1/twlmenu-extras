@@ -11,28 +11,28 @@ description: Based on the original menu from the Nintendo DS, this brings the DS
 downloads:
   classic DS Menu.7z:
     size: 1388146
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/classic
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/classic
       DS Menu.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/icon.png
 last_updated: 2025-01-01 at 04:24 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list 2
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/App
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/App
     list 2.png
 - description: Macro mode
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/Macro
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/Macro
     Mode.png
 - description: Per game settings
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/Per-Game
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/Per-Game
     settings.png
 - description: Select menu
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/Select
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/Select
     Menu.png
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/app-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/classic%20DS%20Menu/screenshots/app-list.png
 systems:
 - Nintendo DSi
 title: Classic DS Menu

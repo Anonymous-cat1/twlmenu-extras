@@ -16,21 +16,21 @@ description: This skin was made for an old version of TWiLight Menu++ and hasn't
 downloads:
   Spider-Man.7z:
     size: 4945035
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Spider-Man.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/icon.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Spider-Man.7z
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/icon.png
 last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/screenshots/App-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/screenshots/App-list.png
 - description: Background
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/screenshots/Background.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/screenshots/Background.png
 - description: Macro
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/screenshots/Macro.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/screenshots/Macro.png
 - description: Per game settings
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/screenshots/Per-game-settings.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Spider-Man/screenshots/Per-game-settings.png
 systems:
 - Nintendo 3DS
 title: Spider-Man

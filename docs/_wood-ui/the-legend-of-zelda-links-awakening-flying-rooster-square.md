@@ -12,16 +12,16 @@ description: ''
 downloads:
   LOZ LA Flying Rooster square.7z:
     size: 163478
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/LOZ
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/LOZ
       LA Flying Rooster square.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/LOZ%20LA%20Flying%20Rooster%20square/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/LOZ%20LA%20Flying%20Rooster%20square/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/LOZ%20LA%20Flying%20Rooster%20square/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/LOZ%20LA%20Flying%20Rooster%20square/icon.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/LOZ%20LA%20Flying%20Rooster%20square/screenshots/app-list.png
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/LOZ%20LA%20Flying%20Rooster%20square/screenshots/app-list.png
 systems:
 - Wood UI
 title: 'The Legend of Zelda: Link’s Awakening Flying Rooster square'

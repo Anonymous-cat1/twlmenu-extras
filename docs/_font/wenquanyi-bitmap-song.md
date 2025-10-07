@@ -11,10 +11,10 @@ description: 11px 文泉驿 (WenQuanYi) bitmap song font for Simplified Chinese
 downloads:
   WenQuanYi Bitmap Song.7z:
     size: 139701
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/extras/fonts/WenQuanYi
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/extras/fonts/WenQuanYi
       Bitmap Song.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/extras/fonts/meta/WenQuanYi%20Bitmap%20Song/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/extras/fonts/meta/WenQuanYi%20Bitmap%20Song/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/extras/fonts/meta/WenQuanYi%20Bitmap%20Song/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/extras/fonts/meta/WenQuanYi%20Bitmap%20Song/icon.png
 last_updated: 2022-02-21 at 02:33 (UTC)
 layout: app
 license: ''

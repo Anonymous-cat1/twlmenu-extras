@@ -14,15 +14,15 @@ description: ''
 downloads:
   AceAttorneyJFA.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/AceAttorneyJFA.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyJFA.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyJFA.gif
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/AceAttorneyJFA.bin
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyJFA.gif
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyJFA.gif
 last_updated: 2022-04-23 at 01:02 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Aceattorneyjfa
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyJFA.gif
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/AceAttorneyJFA.gif
 systems:
 - Icon
 title: 'Phoenix Wright: Ace Attorney - Justice for All'

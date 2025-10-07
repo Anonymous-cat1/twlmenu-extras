@@ -12,18 +12,18 @@ description: An animated icon for Neo Geo Pocket Color game Sonic The Hedgehog P
 downloads:
   Sonic the Hedgehog Pocket Adventure.bin:
     size: 9152
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Sonic
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Sonic
       the Hedgehog Pocket Adventure.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
   the Hedgehog Pocket Adventure.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
   the Hedgehog Pocket Adventure.gif
 last_updated: 2022-09-18 at 15:27 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Sonic the hedgehog pocket adventure
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Sonic
     the Hedgehog Pocket Adventure.gif
 systems:
 - Icon

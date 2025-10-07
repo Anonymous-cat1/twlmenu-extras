@@ -15,10 +15,10 @@ description: A skin based on the french TV show Les Douze Coups de Midi et qui d
 downloads:
   Les Douze Coups de Midi.7z:
     size: 1037419
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Les
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Les
       Douze Coups de Midi.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Les%20Douze%20Coups%20de%20Midi/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Les%20Douze%20Coups%20de%20Midi/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Les%20Douze%20Coups%20de%20Midi/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Les%20Douze%20Coups%20de%20Midi/icon.png
 last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''

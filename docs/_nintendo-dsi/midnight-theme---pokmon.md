@@ -13,10 +13,10 @@ description: This is a port of the a theme originally made by Kazoomaster on The
 downloads:
   Midnight Theme.7z:
     size: 5146730
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Midnight
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Midnight
       Theme.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/dsi.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/dsi.png
 last_updated: 2024-10-20 at 01:17 (UTC)
 layout: app
 license: ''

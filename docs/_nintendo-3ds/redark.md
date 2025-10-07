@@ -7,9 +7,9 @@ description: ''
 downloads:
   redark.7z:
     size: 61482
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/redark.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/3ds.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/3ds.png
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/redark.7z
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/3ds.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/3ds.png
 last_updated: 2023-05-08 at 07:20 (UTC)
 layout: app
 license: ''

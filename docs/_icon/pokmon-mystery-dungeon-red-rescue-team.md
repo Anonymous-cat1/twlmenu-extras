@@ -11,18 +11,18 @@ description: Custom banner for Pokémon Mystery Dungeon on GBA.
 downloads:
   Pokémon Mystery Dungeon - Red Rescue Team.bin:
     size: 2624
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
       Mystery Dungeon - Red Rescue Team.bin
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
   Mystery Dungeon - Red Rescue Team.gif
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
   Mystery Dungeon - Red Rescue Team.gif
 last_updated: 2023-05-17 at 17:41 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Pokémon mystery dungeon   red rescue team
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+  url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
     Mystery Dungeon - Red Rescue Team.gif
 systems:
 - Icon

@@ -11,10 +11,10 @@ description: ''
 downloads:
   Mario & Luigi BIS.7z:
     size: 51025
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Mario
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Mario
       & Luigi BIS.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Mario%20%26%20Luigi%20BIS/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Mario%20%26%20Luigi%20BIS/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Mario%20%26%20Luigi%20BIS/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Mario%20%26%20Luigi%20BIS/icon.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''

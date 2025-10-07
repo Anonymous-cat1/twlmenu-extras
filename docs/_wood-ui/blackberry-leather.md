@@ -7,10 +7,10 @@ description: ''
 downloads:
   BlackBerry Leather.7z:
     size: 55175
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/BlackBerry
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/BlackBerry
       Leather.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/ak.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/unistore/icons/ak.png
 last_updated: 2024-12-29 at 02:09 (UTC)
 layout: app
 license: ''

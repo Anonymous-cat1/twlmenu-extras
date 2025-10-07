@@ -11,10 +11,10 @@ description: Badger OS, Version 534. For more information, go to rockstargames.c
 downloads:
   Grand Theft Auto - CW.7z:
     size: 3805059
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Grand
+    url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Grand
       Theft Auto - CW.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Grand%20Theft%20Auto%20-%20CW/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Grand%20Theft%20Auto%20-%20CW/icon.png
+icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Grand%20Theft%20Auto%20-%20CW/icon.png
+image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Grand%20Theft%20Auto%20-%20CW/icon.png
 last_updated: 2023-10-09 at 00:50 (UTC)
 layout: app
 license: ''
