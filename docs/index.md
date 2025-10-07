@@ -8,7 +8,7 @@ limit: 8
 # Welcome!
 {:.i18n .innerHTML-welcome}
 
-You're now on Anonymous_cat1's **TW**i**L**ight Menu++ [/twlmenu-extras](https://github.com/Anonymous-cat1/twlmenu-extras/) repository for custom-made themes (visit the orignal here [skins.ds-homebrew.com/](https://skins.ds-homebrew.com/).
+You're now on Anonymous_cat1's **TW**i**L**ight Menu++ [twlmenu-extras](https://github.com/Anonymous-cat1/twlmenu-extras/) repository for custom-made themes (visit the orignal here [skins.ds-homebrew.com/](https://skins.ds-homebrew.com/)).
 
 I'll try to update this site faster than the orignal repo—since they don't seem to maintain the extras anymore.
 
