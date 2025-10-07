@@ -48,7 +48,7 @@ layout: compress
 											<span class="i18n innerHTML-user-interface">User Interface: </span>
 											{%- for system in page.systems -%}
 												{%- assign systemId = system | downcase | replace: " ", "-" -%}
-												<a href="/{{ systemId }}" class="i18n innerHTML-{{ systemId }}">{{ system }}</a>
+												<a href="{{ site.baseurl }}/{{ systemId }}" class="i18n innerHTML-{{ systemId }}">{{ system }}</a>
 												{%- unless forloop.last -%}, {% endunless %}
 											{% endfor %}
 											{% if page.categories %}
@@ -56,7 +56,7 @@ layout: compress
 												<span class="i18n innerHTML-categories">Categories: </span>
 												{%- for category in page.categories -%}
 													{%- assign cat = category | prepend: "cat-" -%}
-													<a href="/{{ page.collection }}/category/{{ category }}" class="i18n innerHTML-cat-{{ category }}">{{ site.data.i18n.en-US[cat] | default: category }}</a>
+													<a href="{{ site.baseurl }}/{{ page.collection }}/category/{{ category }}" class="i18n innerHTML-cat-{{ category }}">{{ site.data.i18n.en-US[cat] | default: category }}</a>
 													{%- unless forloop.last -%}, {% endunless %}
 												{% endfor %}
 											{% endif %}
@@ -291,6 +291,6 @@ layout: compress
 	{% include footer.html %}
 
 	{% include common-js.html %}
-	<script src="/assets/js/modal.js"></script>
+	<script src="{{ site.baseurl }}/assets/js/modal.js"></script>
 </body>
 </html>
