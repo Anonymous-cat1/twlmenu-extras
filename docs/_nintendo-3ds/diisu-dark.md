@@ -8,7 +8,7 @@ category:
 color: '#48408f'
 console: Nintendo 3DS
 created: '2026-01-17T14:08:37Z'
-description: 'An iiSU inspired theme 3ds menu with lots of bells and whistles!
+description: 'An iiSU inspired 3ds menu with lots of bells and whistles!
 
   Comes with custom game icons for retro consoles.'
 downloads:
