@@ -13,12 +13,12 @@ description: 'An iiSU inspired theme 3ds menu with lots of bells and whistles!
   Comes with custom game icons for retro consoles.'
 downloads:
   DiiSU Dark.7z:
-    size: 8684426
+    size: 8684492
     url: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/DiiSU
       Dark.7z
 icon: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/DiiSU%20Dark/icon.png
 image: https://raw.githubusercontent.com/anonymous-cat1/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/DiiSU%20Dark/icon.png
-last_updated: 2026-01-17 at 14:07 (UTC)
+last_updated: 2026-01-17 at 13:52 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -41,6 +41,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: DiiSU Dark
-updated: '2026-01-17T14:07:11Z'
+updated: '2026-01-17T13:52:43Z'
 version: v1.0.0
 ---
